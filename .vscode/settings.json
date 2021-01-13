@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/hope/miniconda3/envs/nlp/bin/python"
+    "python.pythonPath": "/Users/hope/miniconda3/envs/parsers/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
