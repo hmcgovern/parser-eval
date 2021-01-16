@@ -1,0 +1,12 @@
+text,gr,head,dep,distance,dep_type,spacy,stanford,rasp
+The horse which Kim sometimes rides is more bad tempered than mine.,dobj,6,2,4,0,,,
+It was my aunt’s car which we sold at auction last year in February.,dobj,9,6,3,0,,,
+The veterans who I thought that we would meet at the reunion were dead.,nsubj,9,5,4,6,,,
+"Natural  disasters  –  storms,  flooding,  hurricanes  –  occur  infrequently  but cause devastation that strains resources to breaking point.",nsubj,16,14,2,2,,,
+"My wildest dream is to build a POS tagger which processes 10K words per second and uses only 1MB of RAM, but it may prove too hard.",nsubj,11,9,2,2,,,
+"Making  these  decisions  requires  sophisticated  knowledge  of  syntax; tagging manuals (Santorini, 1990) give various heuristics that can help human coders make these decisions and that can also provide useful features for automatic taggers.",nsubj,22,19,3,2,,,
+"Making  these  decisions  requires  sophisticated  knowledge  of  syntax; tagging manuals (Santorini, 1990) give various heuristics that can help human coders make these decisions and that can also provide useful features for automatic taggers.",nsubj,32,19,13,2,,,
+"The slightly simplified version of the Viterbi algorithm that we present takes as input a single HMM and a sequence of observed words O=(o1, o2, ...oT) and returns the most probable state/tag sequence Q=(q1, q2, qT) together with its probability.",dobj,11,4,7,0,,,
+Each must match Wisman’s “pie” with the fragment that he carries with him.,dobj,14,11,3,0,,,
+It consists of a series of pipes and a pressure-measuring chamber which record the rise and fall of the water surface.,nsubj,15,5,10,2,,,
+"He tried to ignore what his own common sense told him, but it wasn’t possible; her motives were too blatant.",dobj,10,5,5,3,,,
