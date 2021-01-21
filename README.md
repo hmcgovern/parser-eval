@@ -1,2 +1,2 @@
 # parser-eval
-A comparison of dependency parsing using RASP, SpaCy, and the Stanford Parser
+A comparison of dependency parsing using SpaCy and the Stanford PCFG Parser
