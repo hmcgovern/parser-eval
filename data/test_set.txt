@@ -1,28 +1,29 @@
 the horse which kim sometimes rides is more bad tempered than mine.
 the horse as well as the rabbits which we wanted to eat have escaped.
-it was my aunt's car which we sold at auction last year in february.
+it was my aunt’s car which we sold at auction last year in february.
 the veterans who i thought that we would meet at the reunion were dead.
-natural  disasters  –  storms,  flooding,  hurricanes  –  occur  infrequently  but cause devastation that strains resources to breaking point.
-making  these  decisions  requires  sophisticated  knowledge  of  syntax; tagging manuals (santorini, 1990) give various heuristics that can help human coders make these decisions and that can also provide useful features for automatic taggers.
-the penn treebank tagset was culled from the original 87-tag tagset for the brown corpus.  for example the original brown and c5 tagsets include a separate tag for each of the different forms of the verbs do (e.g. c5 tag vdd for did and vdg tag for doing), be and have.
-the slightly simplified version of the viterbi algorithm that we present takes as input a single hmm and a sequence of observed words o=(o1, o2, ...ot) and returns the most probable state/tag sequence q=(q1, q2, qt) together with its probability.
-coming home from very lonely places, all of us go a little mad: whether from great personal success, or just an all-night drive, we are the sole survivors of a world no one else has ever seen.
-but  far  fewer  people  fully  understand  how  the  media  lab  operates,  fits into mit, and encourages such a creative environment; about half of the anniversary celebration’s program focused on simply defining what the media lab is.
-each must match wisman’s 'pie' with the fragment that he carries with him.
+"natural  disasters  –  storms,  flooding,  hurricanes  –  occur  infrequently  but cause devastation that strains resources to breaking point."
+"making  these  decisions  requires  sophisticated  knowledge  of  syntax; tagging manuals (santorini, 1990) give various heuristics that can help human coders make these decisions and that can also provide useful features for automatic taggers."
+"the penn treebank tagset was culled from the original 87-tag tagset for the brown corpus.  for example the original brown and c5 tagsets include a separate tag for each of the different forms of the verbs do (e.g. c5 tag vdd for did and vdg tag for doing), be and have."
+"the slightly simplified version of the viterbi algorithm that we present takes as input a single hmm and a sequence of observed words o=(o1, o2, ...ot) and returns the most probable state/tag sequence q=(q1, q2, qt) together with its probability."
+"coming home from very lonely places, all of us go a little mad: whether from great personal success, or just an all-night drive, we are the sole survivors of a world no one else has ever seen."
+"but  far  fewer  people  fully  understand  how  the  media  lab  operates,  fits into mit, and encourages such a creative environment; about half of the anniversary celebration’s program focused on simply defining what the media lab is."
 it consists of a series of pipes and a pressure-measuring chamber which record the rise and fall of the water surface.
-he tried to ignore what his own common sense told him, but it wasn't possible; her motives were too blatant.
+"he tried to ignore what his own common sense told him, but it wasn’t possible; her motives were too blatant."
 what city does the tour de france end in?
-for the third year in a row, consumers voted bill cosby first and james garner second in persuasiveness as spokesmen in tv commercials, according to video storyboard tests, new york.
-in assigning to god the responsibility which he learned could not rest with his doctors, eisenhower gave evidence of that weakening of the moral intuition which was to characterize his administration in the years to follow.
-by monday, they hope to have a sheaf of documents both sides can trust.
-what format do we need to submit our l95 paper in?
-what position at goldman sachs is she under consideration for?
-do they know whose hand they are eating out of?
+"for the third year in a row, consumers voted bill cosby first and james garner second in persuasiveness as spokesmen in tv commercials, according to video storyboard tests, new york."
+"in assigning to god the responsibility which he learned could not rest with his doctors, eisenhower gave evidence of that weakening of the moral intuition which was to characterize his administration in the years to follow."
+"by monday, they hope to have a sheaf of documents both sides can trust."
+what did you submit to your thesis advisor?
+what did you call to tell me?
+where should i park to avoid getting a parking ticket?
+what did you eat during your vacation in rome?
 nobody knows what happened because no one else was in the room when it happened.
 she couldn't ignore what her heart was telling her.
-he told her he needed to find himself, whatever that means.
-honolulu, which is the center of the warning system, was under threat of attack
+"he told her he needed to find himself, whatever that means."
+"honolulu, which is the center of the warning system, was under threat of attack"
 the stranger who had held out his cigarette lighter to me retreated back into the shadows
-each must match wisman's 'pie' with the fragment he carries with him.
-the slightly simplified version of the viterbi algorithm we present takes as input a single hmm and a sequence of observed words o=(o1, o2, ...ot) and returns the most probable state/tag sequence q=(q1, q2, qt) together with its probability.
+each must match wisman’s “pie” with the fragment he carries with him.
+"the slightly simplified version of the viterbi algorithm we present takes as input a single hmm and a sequence of observed words o=(o1, o2, ...ot) and returns the most probable state/tag sequence q=(q1, q2, qt) together with its probability."
 the veterans who i thought we would meet at the reunion were dead.
+the veterans who i thought would be at the reunion were dead.
